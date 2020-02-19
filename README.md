@@ -10,9 +10,9 @@ Automating the boring stuffs in documentation of examination results using java
 
 ## How to run
 
-* Use your favourite IDE (myself use eclipse)
+* Use your favourite IDE (myself use eclipse IDE)
 * Create a project and copy the java code to it
-* Import the necessary header files (given)
+* Import the Supporting jar files (given)
 * Feel free to change the location of the input file in source code and path in which you want the output
 * Run the program
 

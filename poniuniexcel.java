@@ -1,4 +1,4 @@
-// prints in excel
+// prints in excel file
 
 package pondiuniresult;
 

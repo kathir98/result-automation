@@ -1,3 +1,5 @@
+// Gets screenshots
+
 package pondiuniresult;
 
 
